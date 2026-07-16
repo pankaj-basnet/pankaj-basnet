@@ -39,4 +39,4 @@ I actively contribute to the **wger-project**, an open-source fitness/workout ma
 
 
 
-_“Code is like humor. When you have to explain it, it’s bad.”_
+_“Coding is like a daily hike: new peaks to scale, bugs to dodge, and the unmatched view from a successful deploy.”_
