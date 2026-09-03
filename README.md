@@ -18,6 +18,10 @@ I actively contribute to the **wger-project**, an open-source fitness/workout ma
 > Focused on UI/UX enhancements, state management, and cross-platform feature integrations.
 
 
+### 📱 [wger-project/mcp-server](https://github.com/wger-project/mcp-server) (MCP Server for Wger Django REST API)
+> **Role:Contributor**  [My Pull Requests](https://github.com/wger-project/mcp-server/pulls?q=is%3Apr+author%3Apankaj-basnet)  ⏤𐩒⏤  [My Commits](https://github.com/wger-project/mcp-server/commits?author=pankaj-basnet) .  
+> Focused on MCP server tools optimization.
+
 
 ---
 
