@@ -1,16 +1,29 @@
 # Hi there, I'm Pankaj Basnet 👋
+Software Developer 💠 Open Source Contributor 💠 Caffeine Extraction Specialist
 
-An open-source contributor and software developer passionate about building robust backend architectures and seamless mobile experiences. Currently focusing on Python ecosystems and Flutter mobile development.
+```py
+class Developer:
+    def __init__(self):
+        self.name = "Pankaj Basnet"
+        self.stack = ["Django", "Flutter", "REST APIs"]
 
----
+    def fuel_source(self):
+        # I know 100+ ways to brew black coffee
+        return "Specialty Coffee -> Clean Code"
+```
+
+🛠️ What I'm Up To
+- 🐍 Backend: Architecting robust Python backend systems.
+- 📱 Frontend: Building seamless Flutter apps for iOS & Android.
+
 
 ## 🛠️ Open Source Contributions
 
-I actively contribute to the **wger-project**, an open-source fitness/workout manager. Here is a snapshot of my recent contributions:
+I actively contribute to the **wger-project**, an open-source fitness/workout manager.
 
-### 🐍 [wger-project/wger](https://github.com/wger-project/wger) (Python Django)
+### 🐍 [wger-project/wger](https://github.com/wger-project/wger) (Django backend)
 > **Role: Contributor**    ✅    [My Pull Requests](https://github.com/wger-project/wger/pulls?q=is%3Apr+author%3Apankaj-basnet)  ⏤𐩒⏤    [My Commits](https://github.com/wger-project/wger/commits?author=pankaj-basnet) .  
-> Focused on optimizing backend logic, managing database migrations, and REST API development.
+> Focused on optimizing backend logic, managing database queries, and REST API development.
 
 
 ### 📱 [wger-project/flutter](https://github.com/wger-project/flutter) (Mobile App)
